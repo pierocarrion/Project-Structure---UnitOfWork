@@ -1,0 +1,12 @@
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\MailingService\bin\Debug\net6.0\MailingService.deps.json
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\MailingService\bin\Debug\net6.0\MailingService.dll
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\MailingService\bin\Debug\net6.0\MailingService.pdb
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\MailingService\obj\Debug\net6.0\MailingService.csproj.AssemblyReference.cache
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\MailingService\obj\Debug\net6.0\MailingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\MailingService\obj\Debug\net6.0\MailingService.AssemblyInfoInputs.cache
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\MailingService\obj\Debug\net6.0\MailingService.AssemblyInfo.cs
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\MailingService\obj\Debug\net6.0\MailingService.csproj.CoreCompileInputs.cache
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\MailingService\obj\Debug\net6.0\MailingService.dll
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\MailingService\obj\Debug\net6.0\refint\MailingService.dll
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\MailingService\obj\Debug\net6.0\MailingService.pdb
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\MailingService\obj\Debug\net6.0\ref\MailingService.dll

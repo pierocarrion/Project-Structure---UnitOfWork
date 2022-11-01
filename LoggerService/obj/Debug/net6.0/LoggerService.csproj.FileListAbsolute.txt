@@ -1,0 +1,12 @@
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\LoggerService\bin\Debug\net6.0\LoggerService.dll
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\LoggerService\obj\Debug\net6.0\LoggerService.dll
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+C:\Users\SoldierStark\Documents\GitHub\PRY20220210\API\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
